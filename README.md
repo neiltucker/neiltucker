@@ -1,6 +1,6 @@
 # Neil Tucker
 
-**Senior Technical Instructor • Curriculum Architect • Educational Technology Founder**  
+**Technical Instructor • Curriculum Architect • Educational Technology Founder**  
 📍 Helping organizations, instructors, and learners master enterprise cloud, database, and automation technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neil%20Tucker-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/neilrtucker)
