@@ -70,9 +70,10 @@
     }
 
     .badge.accent {
-      background: rgba(99, 102, 241, 0.1);
+      background: rgba(99, 102, 241, 0.15);
       color: #a5b4fc;
-      border-color: rgba(99, 102, 241, 0.25);
+      border-color: rgba(99, 102, 241, 0.35);
+      font-weight: 600;
     }
 
     .badge.green {
@@ -326,6 +327,7 @@
       display: flex;
       gap: 1.25rem;
       list-style: none;
+      flex-wrap: wrap;
     }
 
     .footer-links a {
@@ -344,9 +346,10 @@
     <!-- Hero Header -->
     <header>
       <div class="badge-bar">
+        <span class="badge accent">🤖 Featured: AI Fundamentals (AFK-001)</span>
+        <span class="badge green">🐧 Free Course: Linux (LNX001)</span>
         <span class="badge">Technical Instructor</span>
-        <span class="badge accent">Curriculum Architect</span>
-        <span class="badge green">Free Course Demo Available</span>
+        <span class="badge">Curriculum Architect</span>
       </div>
       <h1>Neil Tucker</h1>
       <div class="subtitle">Enterprise Cloud, Database & Automation Education</div>
@@ -356,13 +359,16 @@
         and generative educational technology. Helping enterprises, instructors, and learners bridge the gap between complex infrastructure and production-ready operational skills.
       </p>
       <div class="cta-group">
+        <a href="https://neiltucker.github.io/ai-fundamentals/" class="btn btn-accent" target="_blank" rel="noopener">
+          🤖 Free AI Fundamentals Course ↗
+        </a>
         <a href="https://www.softwaretutorialservices.com/course/lnx001" class="btn btn-green" target="_blank" rel="noopener">
-          🎁 Free 1-Day Linux Course ↗
+          🐧 Free Linux Course (LNX001) ↗
         </a>
         <a href="https://www.softwaretutorialservices.com" class="btn btn-primary" target="_blank" rel="noopener">
           Software Tutorial Services ↗
         </a>
-        <a href="https://coursewarestudio.ai" class="btn btn-accent" target="_blank" rel="noopener">
+        <a href="https://coursewarestudio.ai" class="btn btn-secondary" target="_blank" rel="noopener">
           Courseware Studio ↗
         </a>
         <a href="https://www.linkedin.com/in/neilrtucker" class="btn btn-secondary" target="_blank" rel="noopener">
@@ -371,26 +377,64 @@
       </div>
     </header>
 
-    <!-- Free 1-Day Linux Course Demo Spotlight -->
+    <!-- Featured Free Courses Spotlight Section -->
     <section style="margin-top: -0.5rem; margin-bottom: 3.5rem;">
-      <div class="card" style="border: 1px solid rgba(16, 185, 129, 0.45); background: linear-gradient(135deg, #131c2e 0%, #0d232a 100%);">
-        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1.5rem;">
-          <div style="max-width: 680px;">
-            <div class="card-tag" style="color: var(--green);">🎁 Free 1-Day Course & Platform Demo</div>
-            <h3 class="card-title" style="margin-bottom: 0.6rem; color: #ffffff;">Linux Fundamentals (LNX001)</h3>
-            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0.5rem;">
-              Evaluate both the interactive <strong>LMS e-learning package</strong> and the <strong>Self-Paced narrated course</strong> 100% free on Software Tutorial Services.
-            </p>
-            <p style="color: var(--text-muted); font-size: 0.88rem; line-height: 1.5;">
-              ✨ <strong>Built with Courseware Studio:</strong> Highlights the power of AI courseware generation — featuring automated multi-module syllabi, responsive slide layouts, studio-quality voice narration, hands-on lab manuals, and LMS compliance out of the box.
-            </p>
-          </div>
+      <h2 class="section-title">Featured Free Courses Built with Courseware Studio AI</h2>
+      <p class="section-desc">Experience complete AI-generated curricula across web, self-paced, and LMS formats — free for learners and corporate evaluation.</p>
+
+      <div class="grid-2">
+        
+        <!-- Primary Feature: AI Fundamentals (AFK-001) -->
+        <div class="card" style="border: 1px solid rgba(99, 102, 241, 0.45); background: linear-gradient(145deg, #131c2e 0%, #1e1b4b 100%);">
           <div>
-            <a href="https://www.softwaretutorialservices.com/course/lnx001" class="btn btn-green" target="_blank" rel="noopener" style="padding: 0.9rem 1.6rem;">
-              Test Free Course (LNX001) ↗
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem;flex-wrap:wrap;gap:0.4rem">
+              <span class="card-tag" style="color:#a5b4fc;margin:0">⭐ Preferred Showcase · 1 Day (360 Min Core)</span>
+              <span style="font-size:0.75rem;background:rgba(99,102,241,0.25);color:#c7d2fe;padding:2px 8px;border-radius:999px;font-weight:700">CC BY 4.0</span>
+            </div>
+            <h3 class="card-title" style="margin-bottom: 0.6rem; color: #ffffff;">AI Fundamentals for Knowledge Workers (AFK-001)</h3>
+            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0.75rem;">
+              Complete e-learning course on foundational generative AI, structured prompt engineering, document drafting, spreadsheet formulas, and AI workflow supervision.
+            </p>
+            <ul class="card-list" style="margin-bottom: 1.25rem;">
+              <li><strong>Built 100% with Courseware Studio:</strong> 5 web modules, guided office labs, quizzes, and client-side AI Tutor.</li>
+              <li><strong>Free Downloads Included:</strong> 9-page Syllabus PDF and ready-to-deploy SCORM 2004 LMS bundle.</li>
+              <li><strong>Free Instructor Kit:</strong> PowerPoint slides, 120-page Instructor Guide, and Trainer Prep Guide available on request.</li>
+            </ul>
+          </div>
+          <div style="display:flex;gap:0.75rem;flex-wrap:wrap">
+            <a href="https://neiltucker.github.io/ai-fundamentals/" class="btn btn-accent" target="_blank" rel="noopener" style="flex:1;justify-content:center">
+              Launch Free AI Course ↗
+            </a>
+            <a href="https://github.com/neiltucker/ai-fundamentals" class="btn btn-secondary" target="_blank" rel="noopener">
+              Repo &amp; SCORM ↓
             </a>
           </div>
         </div>
+
+        <!-- Secondary Feature: Linux Fundamentals (LNX001) -->
+        <div class="card" style="border: 1px solid rgba(16, 185, 129, 0.45); background: linear-gradient(145deg, #131c2e 0%, #0d232a 100%);">
+          <div>
+            <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:0.5rem;flex-wrap:wrap;gap:0.4rem">
+              <span class="card-tag" style="color:var(--green);margin:0">🐧 1-Day Trial · Technical Infrastructure</span>
+              <span style="font-size:0.75rem;background:rgba(16,185,129,0.2);color:#a7f3d0;padding:2px 8px;border-radius:999px;font-weight:700">LMS &amp; Narrated</span>
+            </div>
+            <h3 class="card-title" style="margin-bottom: 0.6rem; color: #ffffff;">Linux Fundamentals for Cloud &amp; DevOps (LNX001)</h3>
+            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0.75rem;">
+              Evaluate both the interactive LMS e-learning package and the Self-Paced narrated course (with studio voiceover, slides, and quizzes) free on Software Tutorial Services.
+            </p>
+            <ul class="card-list" style="margin-bottom: 1.25rem;">
+              <li><strong>Built with Courseware Studio:</strong> High-fidelity voiceover narration and viewport-fitted layout optimizations.</li>
+              <li><strong>Delivered by Software Tutorial Services:</strong> Online courseware access to evaluate instructional pacing.</li>
+              <li><strong>Hands-On Linux Labs:</strong> Practical shell navigation, user permissions, and cloud administration.</li>
+            </ul>
+          </div>
+          <div>
+            <a href="https://www.softwaretutorialservices.com/course/lnx001" class="btn btn-green" target="_blank" rel="noopener" style="width:100%;justify-content:center">
+              Test Free Linux Course (LNX001) ↗
+            </a>
+          </div>
+        </div>
+
       </div>
     </section>
 
@@ -434,7 +478,7 @@
               <li><strong>Instant Syllabi:</strong> Free, industry-aligned course outlines with precise module pacing in 2 minutes.</li>
               <li><strong>LMS Package Exports:</strong> Compliant SCORM 1.2, SCORM 2004, xAPI, and cmi5 interactive HTML5 bundles.</li>
               <li><strong>Complete Instructor Kits:</strong> Student Manuals, Instructor Guides, PowerPoint slides, and assessment banks.</li>
-              <li><strong>Self-Paced Narration:</strong> Studio voiceover audio and viewport-fitted layouts (as seen in LNX001).</li>
+              <li><strong>Enterprise Showcase:</strong> Explore our free <a href="https://neiltucker.github.io/ai-fundamentals/" style="color: #a5b4fc; text-decoration: underline;" target="_blank" rel="noopener">AI Fundamentals (AFK-001)</a> course.</li>
             </ul>
           </div>
           <div>
@@ -452,6 +496,21 @@
       <p class="section-desc">Client-side web utilities built to simplify classroom pacing, course packaging, and LMS verification with zero setup.</p>
       
       <div class="grid-3">
+        <!-- AI Fundamentals -->
+        <div class="card">
+          <div>
+            <div class="card-tag">Interactive Course</div>
+            <h3 class="card-title" style="font-size: 1.15rem;">AI Fundamentals (AFK-001)</h3>
+            <p class="card-body">
+              Complete free self-paced course for business professionals with online modules, quizzes, downloadable SCORM package, and syllabus PDF.
+            </p>
+          </div>
+          <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--card-border); padding-top: 1rem;">
+            <a href="https://neiltucker.github.io/ai-fundamentals/" class="tool-link" target="_blank" rel="noopener">Launch App ↗</a>
+            <a href="https://github.com/neiltucker/ai-fundamentals" class="tool-link" style="color: var(--text-muted);" target="_blank" rel="noopener">Repo</a>
+          </div>
+        </div>
+
         <!-- Markdown to SCORM -->
         <div class="card">
           <div>
@@ -494,6 +553,36 @@
           <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--card-border); padding-top: 1rem;">
             <a href="https://neiltucker.github.io/timer3/" class="tool-link" target="_blank" rel="noopener">Launch App ↗</a>
             <a href="https://github.com/neiltucker/timer3" class="tool-link" style="color: var(--text-muted);" target="_blank" rel="noopener">Repo</a>
+          </div>
+        </div>
+
+        <!-- Free SCORM Wrapper -->
+        <div class="card">
+          <div>
+            <div class="card-tag">LMS Boilerplate</div>
+            <h3 class="card-title" style="font-size: 1.15rem;">Free SCORM Wrapper</h3>
+            <p class="card-body">
+              Production-tested boilerplate template to package interactive HTML5 web pages, slides, or simulations into compliant SCORM 1.2 / 2004 packages.
+            </p>
+          </div>
+          <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--card-border); padding-top: 1rem;">
+            <a href="https://github.com/neiltucker/free-scorm-wrapper" class="tool-link" target="_blank" rel="noopener">View Repo ↗</a>
+            <a href="https://coursewarestudio.ai" class="tool-link" style="color: var(--text-muted);" target="_blank" rel="noopener">Authoring</a>
+          </div>
+        </div>
+
+        <!-- Courseware Samples -->
+        <div class="card">
+          <div>
+            <div class="card-tag">Product Samples</div>
+            <h3 class="card-title" style="font-size: 1.15rem;">Courseware Samples</h3>
+            <p class="card-body">
+              Download free examples of complete course packages and syllabi generated on Courseware Studio (including AI Essentials and Linux).
+            </p>
+          </div>
+          <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--card-border); padding-top: 1rem;">
+            <a href="https://github.com/neiltucker/courseware-samples" class="tool-link" target="_blank" rel="noopener">View Samples ↗</a>
+            <a href="https://coursewarestudio.ai" class="tool-link" style="color: var(--text-muted);" target="_blank" rel="noopener">Platform</a>
           </div>
         </div>
       </div>
@@ -559,15 +648,26 @@
     <!-- Featured Courses -->
     <section>
       <h2 class="section-title">Flagship Courseware</h2>
-      <p class="section-desc">Outlines and syllabi for in-demand instructor-led courses delivered globally.</p>
+      <p class="section-desc">Outlines and syllabi for in-demand instructor-led and self-paced courses delivered globally.</p>
 
-      <div class="grid-3">
+      <div class="grid-2">
+        <div class="card" style="padding: 1.25rem;">
+          <div>
+            <div class="card-tag" style="color: #a5b4fc;">Featured Free Course</div>
+            <h4 style="color: #fff; margin-bottom: 0.35rem;">AI Fundamentals (AFK-001)</h4>
+            <p style="color: var(--text-muted); font-size: 0.88rem; margin-bottom: 0.75rem;">
+              1-day interactive e-learning course on prompt engineering, office automation, and safe AI governance. Built 100% with Courseware Studio.
+            </p>
+          </div>
+          <a href="https://neiltucker.github.io/ai-fundamentals/" class="tool-link" target="_blank" rel="noopener">Launch Web Course ↗</a>
+        </div>
+
         <div class="card" style="padding: 1.25rem;">
           <div>
             <div class="card-tag" style="color: var(--green);">Free Trial Course</div>
-            <h4 style="color: #fff; margin-bottom: 0.35rem;">Linux (LNX001)</h4>
+            <h4 style="color: #fff; margin-bottom: 0.35rem;">Linux Fundamentals (LNX001)</h4>
             <p style="color: var(--text-muted); font-size: 0.88rem; margin-bottom: 0.75rem;">
-              Free 1-day course to test LMS and Self-Paced editions. Built 100% with Courseware Studio.
+              Free 1-day course to test LMS and Self-Paced editions on Software Tutorial Services. Built 100% with Courseware Studio.
             </p>
           </div>
           <a href="https://www.softwaretutorialservices.com/course/lnx001" class="tool-link" target="_blank" rel="noopener">Enroll Free ↗</a>
@@ -604,8 +704,9 @@
       </div>
       <ul class="footer-links">
         <li><a href="https://www.linkedin.com/in/neilrtucker" target="_blank" rel="noopener">LinkedIn</a></li>
-        <li><a href="https://www.softwaretutorialservices.com" target="_blank" rel="noopener">Software Tutorial Services</a></li>
+        <li><a href="https://neiltucker.github.io/ai-fundamentals/" target="_blank" rel="noopener">Free AI Course</a></li>
         <li><a href="https://www.softwaretutorialservices.com/course/lnx001" target="_blank" rel="noopener">Free Linux Course</a></li>
+        <li><a href="https://www.softwaretutorialservices.com" target="_blank" rel="noopener">Software Tutorial Services</a></li>
         <li><a href="https://coursewarestudio.ai" target="_blank" rel="noopener">Courseware Studio</a></li>
         <li><a href="https://github.com/neiltucker" target="_blank" rel="noopener">GitHub</a></li>
       </ul>
