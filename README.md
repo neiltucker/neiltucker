@@ -6,6 +6,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neil%20Tucker-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/neilrtucker)
 [![Software Tutorial Services](https://img.shields.io/badge/Training-Software%20Tutorial%20Services-0078D4?style=flat-square)](https://www.softwaretutorialservices.com)
 [![Courseware Studio](https://img.shields.io/badge/AI%20Courseware-Courseware%20Studio-6366F1?style=flat-square)](https://coursewarestudio.ai)
+[![Free Linux Course](https://img.shields.io/badge/Free%20Course-Linux%20LNX001-10b981?style=flat-square)](https://www.softwaretutorialservices.com/course/lnx001)
+
+---
+
+## 🎁 Featured Demo: Free 1-Day Linux Course (LNX001)
+
+### 🐧 [Test Drive the LMS & Self-Paced Course for Free](https://www.softwaretutorialservices.com/course/lnx001)
+Want to evaluate how modern e-learning and self-paced training are built? Enroll in our free 1-day **Linux Fundamentals (LNX001)** course on Software Tutorial Services:
+* **Built 100% with [Courseware Studio](https://coursewarestudio.ai):** Both the standard-compliant interactive **LMS package** and the full **Self-Paced narrated course** (with voiceovers, slides, and quizzes) were generated entirely using Courseware Studio's AI authoring platform.
+* **Instant Free Access:** Test and experience the courseware, pacing, and lab materials at zero cost.
+* 👉 **[Enroll Free in Linux (LNX001) at SoftwareTutorialServices.com](https://www.softwaretutorialservices.com/course/lnx001)**
 
 ---
 
@@ -60,4 +71,5 @@ Outlines, lab setups, and student resources for popular instructor-led courses:
 
 * **LinkedIn:** [linkedin.com/in/neilrtucker](https://www.linkedin.com/in/neilrtucker)
 * **Training Inquiries:** [softwaretutorialservices.com](https://www.softwaretutorialservices.com)
+* **Free Linux Course:** [softwaretutorialservices.com/course/lnx001](https://www.softwaretutorialservices.com/course/lnx001)
 * **AI Course Authoring:** [coursewarestudio.ai](https://coursewarestudio.ai)
