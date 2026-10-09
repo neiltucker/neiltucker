@@ -44,9 +44,9 @@
 
     /* Hero */
     header {
-      padding: 4.5rem 0 3rem;
+      padding: 4.5rem 0 2.5rem;
       border-bottom: 1px solid var(--card-border);
-      margin-bottom: 3rem;
+      margin-bottom: 2.5rem;
     }
 
     .badge-bar {
@@ -73,6 +73,12 @@
       background: rgba(99, 102, 241, 0.1);
       color: #a5b4fc;
       border-color: rgba(99, 102, 241, 0.25);
+    }
+
+    .badge.green {
+      background: rgba(16, 185, 129, 0.1);
+      color: var(--green);
+      border-color: rgba(16, 185, 129, 0.3);
     }
 
     h1 {
@@ -132,6 +138,16 @@
     }
     .btn-accent:hover {
       background: var(--accent-hover);
+      transform: translateY(-1px);
+    }
+
+    .btn-green {
+      background: var(--green);
+      color: #0b0f19;
+      font-weight: 700;
+    }
+    .btn-green:hover {
+      background: #34d399;
       transform: translateY(-1px);
     }
 
@@ -330,16 +346,19 @@
       <div class="badge-bar">
         <span class="badge">Technical Instructor</span>
         <span class="badge accent">Curriculum Architect</span>
-        <span class="badge">EdTech Founder</span>
+        <span class="badge green">Free Course Demo Available</span>
       </div>
       <h1>Neil Tucker</h1>
       <div class="subtitle">Enterprise Cloud, Database & Automation Education</div>
       <p class="bio">
-        Veteran technical trainer and curriculum developer specializing in <strong>Microsoft SQL Server</strong>, 
+        Technical instructor and curriculum architect specializing in <strong>Microsoft SQL Server</strong>, 
         <strong>Microsoft Azure</strong>, <strong>PowerShell Automation</strong>, <strong>Python</strong>, 
         and generative educational technology. Helping enterprises, instructors, and learners bridge the gap between complex infrastructure and production-ready operational skills.
       </p>
       <div class="cta-group">
+        <a href="https://www.softwaretutorialservices.com/course/lnx001" class="btn btn-green" target="_blank" rel="noopener">
+          🎁 Free 1-Day Linux Course ↗
+        </a>
         <a href="https://www.softwaretutorialservices.com" class="btn btn-primary" target="_blank" rel="noopener">
           Software Tutorial Services ↗
         </a>
@@ -349,16 +368,36 @@
         <a href="https://www.linkedin.com/in/neilrtucker" class="btn btn-secondary" target="_blank" rel="noopener">
           LinkedIn Profile ↗
         </a>
-        <a href="https://github.com/neiltucker" class="btn btn-secondary">
-          GitHub Repositories ↗
-        </a>
       </div>
     </header>
+
+    <!-- Free 1-Day Linux Course Demo Spotlight -->
+    <section style="margin-top: -0.5rem; margin-bottom: 3.5rem;">
+      <div class="card" style="border: 1px solid rgba(16, 185, 129, 0.45); background: linear-gradient(135deg, #131c2e 0%, #0d232a 100%);">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 1.5rem;">
+          <div style="max-width: 680px;">
+            <div class="card-tag" style="color: var(--green);">🎁 Free 1-Day Course & Platform Demo</div>
+            <h3 class="card-title" style="margin-bottom: 0.6rem; color: #ffffff;">Linux Fundamentals (LNX001)</h3>
+            <p style="color: #cbd5e1; font-size: 0.95rem; line-height: 1.6; margin-bottom: 0.5rem;">
+              Evaluate both the interactive <strong>LMS e-learning package</strong> and the <strong>Self-Paced narrated course</strong> 100% free on Software Tutorial Services.
+            </p>
+            <p style="color: var(--text-muted); font-size: 0.88rem; line-height: 1.5;">
+              ✨ <strong>Built with Courseware Studio:</strong> Highlights the power of AI courseware generation — featuring automated multi-module syllabi, responsive slide layouts, studio-quality voice narration, hands-on lab manuals, and LMS compliance out of the box.
+            </p>
+          </div>
+          <div>
+            <a href="https://www.softwaretutorialservices.com/course/lnx001" class="btn btn-green" target="_blank" rel="noopener" style="padding: 0.9rem 1.6rem;">
+              Test Free Course (LNX001) ↗
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <!-- Core Platforms -->
     <section>
       <h2 class="section-title">Professional Ventures</h2>
-      <p class="section-desc">Delivering corporate instruction and developing the next generation of AI-assisted curriculum authoring tools.</p>
+      <p class="section-desc">Delivering corporate instruction and developing next-generation AI curriculum authoring tools.</p>
       
       <div class="grid-2">
         <!-- Software Tutorial Services -->
@@ -373,6 +412,7 @@
               <li><strong>Microsoft SQL Server:</strong> Administration, high availability, T-SQL query tuning, and SQL Server 2025.</li>
               <li><strong>Cloud & Automation:</strong> Microsoft Azure infrastructure, PowerShell 7, and Windows Server 2025.</li>
               <li><strong>Programming:</strong> Python programming, automation workflows, and real-world database integration.</li>
+              <li><strong>Free Course Trial:</strong> Experience <a href="https://www.softwaretutorialservices.com/course/lnx001" style="color: var(--green); text-decoration: underline;" target="_blank" rel="noopener">Linux (LNX001)</a> free.</li>
             </ul>
           </div>
           <div>
@@ -394,6 +434,7 @@
               <li><strong>Instant Syllabi:</strong> Free, industry-aligned course outlines with precise module pacing in 2 minutes.</li>
               <li><strong>LMS Package Exports:</strong> Compliant SCORM 1.2, SCORM 2004, xAPI, and cmi5 interactive HTML5 bundles.</li>
               <li><strong>Complete Instructor Kits:</strong> Student Manuals, Instructor Guides, PowerPoint slides, and assessment banks.</li>
+              <li><strong>Self-Paced Narration:</strong> Studio voiceover audio and viewport-fitted layouts (as seen in LNX001).</li>
             </ul>
           </div>
           <div>
@@ -520,12 +561,24 @@
       <h2 class="section-title">Flagship Courseware</h2>
       <p class="section-desc">Outlines and syllabi for in-demand instructor-led courses delivered globally.</p>
 
-      <div class="grid-2">
+      <div class="grid-3">
         <div class="card" style="padding: 1.25rem;">
           <div>
-            <h4 style="color: #fff; margin-bottom: 0.35rem;">65316A — Administering SQL Server 2025</h4>
+            <div class="card-tag" style="color: var(--green);">Free Trial Course</div>
+            <h4 style="color: #fff; margin-bottom: 0.35rem;">Linux (LNX001)</h4>
             <p style="color: var(--text-muted); font-size: 0.88rem; margin-bottom: 0.75rem;">
-              Comprehensive 5-day bootcamp on deploying, securing, automating, and tuning SQL Server 2025 instances using SSMS 22 and PowerShell.
+              Free 1-day course to test LMS and Self-Paced editions. Built 100% with Courseware Studio.
+            </p>
+          </div>
+          <a href="https://www.softwaretutorialservices.com/course/lnx001" class="tool-link" target="_blank" rel="noopener">Enroll Free ↗</a>
+        </div>
+
+        <div class="card" style="padding: 1.25rem;">
+          <div>
+            <div class="card-tag">5-Day Bootcamp</div>
+            <h4 style="color: #fff; margin-bottom: 0.35rem;">65316A — SQL Server 2025</h4>
+            <p style="color: var(--text-muted); font-size: 0.88rem; margin-bottom: 0.75rem;">
+              Deploying, securing, automating, and tuning SQL Server 2025 instances using SSMS 22 and PowerShell.
             </p>
           </div>
           <a href="https://github.com/neiltucker/65316A" class="tool-link" target="_blank" rel="noopener">View Syllabus & Labs ↗</a>
@@ -533,9 +586,10 @@
 
         <div class="card" style="padding: 1.25rem;">
           <div>
-            <h4 style="color: #fff; margin-bottom: 0.35rem;">55318B — Advanced PowerShell Automation</h4>
+            <div class="card-tag">3-Day Advanced</div>
+            <h4 style="color: #fff; margin-bottom: 0.35rem;">55318B — PowerShell 7</h4>
             <p style="color: var(--text-muted); font-size: 0.88rem; margin-bottom: 0.75rem;">
-              Production-grade automation with PowerShell 7, REST APIs, JSON data pipelines, Git version control, and Windows Server 2025 management.
+              Production-grade automation with PowerShell 7, REST APIs, JSON data pipelines, and Windows Server 2025.
             </p>
           </div>
           <a href="https://github.com/neiltucker/55318B" class="tool-link" target="_blank" rel="noopener">View Syllabus & Labs ↗</a>
@@ -551,6 +605,7 @@
       <ul class="footer-links">
         <li><a href="https://www.linkedin.com/in/neilrtucker" target="_blank" rel="noopener">LinkedIn</a></li>
         <li><a href="https://www.softwaretutorialservices.com" target="_blank" rel="noopener">Software Tutorial Services</a></li>
+        <li><a href="https://www.softwaretutorialservices.com/course/lnx001" target="_blank" rel="noopener">Free Linux Course</a></li>
         <li><a href="https://coursewarestudio.ai" target="_blank" rel="noopener">Courseware Studio</a></li>
         <li><a href="https://github.com/neiltucker" target="_blank" rel="noopener">GitHub</a></li>
       </ul>
