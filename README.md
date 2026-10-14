@@ -18,8 +18,8 @@
 A complete, multi-module curriculum on foundational generative AI principles, structured prompting frameworks, and spreadsheet automation designed for modern office professionals:
 * **Built 100% with [Courseware Studio AI](https://coursewarestudio.ai):** Demonstrates end-to-end automated curriculum generation — from the 9-page syllabus to 5 interactive web modules, hands-on guided labs, and an embedded client-side AI Tutor.
 * **Instant Free Online Course:** Launch and study directly in your browser at **[neiltucker.github.io/ai-fundamentals](https://neiltucker.github.io/ai-fundamentals/)**.
-* **Free Downloads:** Download the complete [Official Syllabus PDF](https://neiltucker.github.io/ai-fundamentals/downloads/AFK-001_EN_Syllabus.pdf) and ready-to-deploy [SCORM 2004 LMS Bundle](https://neiltucker.github.io/ai-fundamentals/downloads/AFK-001_EN_SCORM2004.zip) for corporate LMS upload.
-* **Free Instructor Kit:** Request the complete classroom delivery kit (PowerPoint slides, 120-page Instructor Guide, and Trainer Prep Guide) at zero cost via **[support@coursewarestudio.ai](mailto:support@coursewarestudio.ai?subject=Request%20Free%20Instructor%20Materials%20-%20AFK-001)**.
+* **Free Downloads:** Download the complete [Official Syllabus PDF](https://neiltucker.github.io/ai-fundamentals/downloads/AFK-001_EN_Syllabus.pdf) directly.
+* **Free SCORM Package & Instructor Kit:** Request the complete SCORM 2004 LMS package and classroom delivery kit (PowerPoint slides, 120-page Instructor Guide, and Trainer Prep Guide) at zero cost via **[support@coursewarestudio.ai](mailto:support@coursewarestudio.ai?subject=Request%20Free%20Materials%20-%20AFK-001)**.
 * **Enterprise Free-Use Grant:** Free for internal corporate employee training, universities, and non-profits under Creative Commons (CC BY 4.0).
 * 👉 **[Launch Free AI Fundamentals Course Online ↗](https://neiltucker.github.io/ai-fundamentals/)**
 
@@ -59,7 +59,7 @@ Free, browser-based utilities built to simplify classroom pacing and e-learning 
 
 | Tool | Description | Quick Link |
 | :--- | :--- | :--- |
-| **[AI Fundamentals (AFK-001)](https://github.com/neiltucker/ai-fundamentals)** | Complete free 1-day AI course for business professionals with online player, SCORM download, and instructor kit. | [Live App](https://neiltucker.github.io/ai-fundamentals/) • [Repo](https://github.com/neiltucker/ai-fundamentals) |
+| **[AI Fundamentals (AFK-001)](https://neiltucker.github.io/ai-fundamentals/)** | Complete free 1-day AI course for business professionals with online player, syllabus PDF, and instructor kit. | [Live App](https://neiltucker.github.io/ai-fundamentals/) |
 | **[Markdown to SCORM](https://github.com/neiltucker/markdown-to-scorm)** | In-browser compiler converting raw Markdown syllabi and notes into compliant multi-slide SCORM 2004 packages. Zero dependencies. | [Live App](https://neiltucker.github.io/markdown-to-scorm/) • [Repo](https://github.com/neiltucker/markdown-to-scorm) |
 | **[SCORM & LMS Test Harness](https://github.com/neiltucker/scorm-lms-test-harness)** | Offline single-page LMS simulation environment to test and debug SCORM 1.2/2004 API calls (`window.API` / `API_1484_11`) locally without an LMS. | [Live App](https://neiltucker.github.io/scorm-lms-test-harness/) • [Repo](https://github.com/neiltucker/scorm-lms-test-harness) |
 | **[Free SCORM Wrapper](https://github.com/neiltucker/free-scorm-wrapper)** | Production boilerplate and helper scripts to wrap static HTML5 web apps, games, or slides into standard LMS packages. | [Repo](https://github.com/neiltucker/free-scorm-wrapper) |
@@ -72,7 +72,7 @@ Free, browser-based utilities built to simplify classroom pacing and e-learning 
 
 Outlines, lab setups, and student resources for popular instructor-led courses:
 
-* **[AI Fundamentals (AFK-001)](https://github.com/neiltucker/ai-fundamentals)** — Generative AI for Business Professionals & Knowledge Workers
+* **[AI Fundamentals (AFK-001)](https://neiltucker.github.io/ai-fundamentals/)** — Generative AI for Business Professionals & Knowledge Workers
 * **[65316A](https://github.com/neiltucker/65316A)** — Administering Microsoft SQL Server 2025 Databases
 * **[65317A](https://github.com/neiltucker/65317A)** — Querying and Analyzing SQL Server 2025 with T-SQL and SSMS 22
 * **[65319A](https://github.com/neiltucker/65319A)** — Automating Administration with PowerShell on Windows Server 2025
