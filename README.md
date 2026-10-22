@@ -19,7 +19,7 @@ A complete, multi-module curriculum on foundational generative AI principles, st
 * **Instant Free Online Course:** Launch and study directly in your browser at **[neiltucker.github.io/ai-fundamentals](https://neiltucker.github.io/ai-fundamentals/)** or **[sample.coursewarestudio.ai](https://sample.coursewarestudio.ai/)**.
 * **Free Downloads:** Download the complete [Official Syllabus PDF](https://neiltucker.github.io/ai-fundamentals/downloads/AFK-001_EN_Syllabus.pdf) directly.
 * **Free Instructor Kit:** Request the complete classroom delivery kit (PowerPoint slides, 120-page Instructor Guide, and Trainer Prep Guide) at zero cost via **[support@coursewarestudio.ai](mailto:support@coursewarestudio.ai?subject=Request%20Free%20Instructor%20Kit%20-%20AFK-001)**.
-* **🎁 Special Offer — Free Courseware Development with STS Hosting:** Receive free custom courseware development from Courseware Studio when hosting your course on Software Tutorial Services (minimum 25 student vouchers at $18/day; standard scope limitations apply). Contact **[support@coursewarestudio.ai](mailto:support@coursewarestudio.ai?subject=Free%20Courseware%20Development%20%26%20STS%20Hosting%20Inquiry)**.
+* **🎁 Special Offer — Free Courseware Development with STS Hosting:** Receive free custom courseware development from Courseware Studio when hosting your course on Software Tutorial Services (minimum 25 student vouchers at $18 / student per course-day of content; e.g., $450 min. for a 1-day course; standard scope limitations apply). Contact **[support@coursewarestudio.ai](mailto:support@coursewarestudio.ai?subject=Free%20Courseware%20Development%20%26%20STS%20Hosting%20Inquiry)**.
 * **Enterprise Free-Use Grant:** Free for web-based internal corporate employee training, universities, and non-profits under Creative Commons (CC BY 4.0).
 * 👉 **[Launch Free AI Fundamentals Course Online ↗](https://neiltucker.github.io/ai-fundamentals/)**
 
@@ -39,7 +39,7 @@ Delivering high-impact, instructor-led training across Microsoft SQL Server, Win
 The premier generative AI platform designed specifically for curriculum architects, L&D departments, and technical authors.
 * **Instant Syllabus & Curriculum Planning:** Generate industry-aligned, multi-module course briefs and syllabi in minutes.
 * **Complete Instructor Bundles:** Automatically produce Student Manuals, Instructor Guides, PowerPoint slide decks, and assessment banks.
-* **Special Offer with STS:** Free custom courseware development when you host your course on Software Tutorial Services (minimum 25 student vouchers at $18/day; standard scope limitations apply).
+* **Special Offer with STS:** Free custom courseware development when you host your course on Software Tutorial Services (minimum 25 student vouchers at $18 / student per course-day of content; e.g., $450 min. for a 1-day course; standard scope limitations apply).
 * 👉 **[Generate a Free Course Syllabus at CoursewareStudio.ai](https://coursewarestudio.ai)**
 
 ---
