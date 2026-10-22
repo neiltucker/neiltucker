@@ -7,13 +7,12 @@
 [![Software Tutorial Services](https://img.shields.io/badge/Training-Software%20Tutorial%20Services-0078D4?style=flat-square)](https://www.softwaretutorialservices.com)
 [![Courseware Studio](https://img.shields.io/badge/AI%20Courseware-Courseware%20Studio-6366F1?style=flat-square)](https://coursewarestudio.ai)
 [![Free AI Course](https://img.shields.io/badge/Free%20Course-AI%20Fundamentals%20AFK--001-6366f1?style=flat-square)](https://neiltucker.github.io/ai-fundamentals/)
-[![Free Linux Course](https://img.shields.io/badge/Free%20Course-Linux%20LNX001-10b981?style=flat-square)](https://www.softwaretutorialservices.com/course/lnx001)
 
 ---
 
-## 🎁 Featured Free Courses (Built with Courseware Studio AI)
+## 🎁 Featured Courseware Showcase (Built with Courseware Studio AI)
 
-### 🤖 1. [AI Fundamentals for Knowledge Workers (AFK-001)](https://neiltucker.github.io/ai-fundamentals/)
+### 🤖 [AI Fundamentals for Knowledge Workers (AFK-001)](https://neiltucker.github.io/ai-fundamentals/)
 **Free Interactive Web Course • Complete Instructor Kit • Hosted on STS**  
 A complete, multi-module curriculum on foundational generative AI principles, structured prompting frameworks, and spreadsheet automation designed for modern office professionals:
 * **Built 100% with [Courseware Studio AI](https://coursewarestudio.ai):** Demonstrates end-to-end automated curriculum generation — from the 9-page syllabus to 5 interactive web modules, hands-on guided labs, and an embedded client-side AI Tutor.
@@ -23,15 +22,6 @@ A complete, multi-module curriculum on foundational generative AI principles, st
 * **🎁 Special Offer — Free Courseware Development with STS Hosting:** Receive free custom courseware development from Courseware Studio when hosting your course on Software Tutorial Services (minimum 25 student vouchers at $18/day; standard scope limitations apply). Contact **[support@coursewarestudio.ai](mailto:support@coursewarestudio.ai?subject=Free%20Courseware%20Development%20%26%20STS%20Hosting%20Inquiry)**.
 * **Enterprise Free-Use Grant:** Free for web-based internal corporate employee training, universities, and non-profits under Creative Commons (CC BY 4.0).
 * 👉 **[Launch Free AI Fundamentals Course Online ↗](https://neiltucker.github.io/ai-fundamentals/)**
-
----
-
-### 🐧 2. [Linux Fundamentals for Cloud & DevOps (LNX001)](https://www.softwaretutorialservices.com/course/lnx001)
-**Free 1-Day LMS & Self-Paced Training Trial**  
-Test drive both the interactive **LMS e-learning package** and the **Self-Paced narrated course** (with studio voiceover, responsive slides, and quizzes) on Software Tutorial Services:
-* **Built with [Courseware Studio](https://coursewarestudio.ai):** Showcases synchronized audio narration, viewport-fitted slides, and practical command-line labs.
-* **Delivered by [Software Tutorial Services](https://www.softwaretutorialservices.com):** Accessible free online to evaluate courseware structure and instructional pacing.
-* 👉 **[Enroll Free in Linux (LNX001) at SoftwareTutorialServices.com ↗](https://www.softwaretutorialservices.com/course/lnx001)**
 
 ---
 
@@ -88,6 +78,5 @@ Outlines, lab setups, and student resources for popular instructor-led courses:
 
 * **LinkedIn:** [linkedin.com/in/neilrtucker](https://www.linkedin.com/in/neilrtucker)
 * **Free AI Course:** [neiltucker.github.io/ai-fundamentals](https://neiltucker.github.io/ai-fundamentals/)
-* **Free Linux Course:** [softwaretutorialservices.com/course/lnx001](https://www.softwaretutorialservices.com/course/lnx001)
 * **Training Inquiries:** [softwaretutorialservices.com](https://www.softwaretutorialservices.com)
 * **AI Course Authoring:** [coursewarestudio.ai](https://coursewarestudio.ai)
