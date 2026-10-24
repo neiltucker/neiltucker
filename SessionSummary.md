@@ -1,6 +1,22 @@
 # SessionSummary.md — Neil Tucker Personal Portfolio & Tools Showcase
 
-## Current Operational State & Session Handoff — 14 October 2026
+## Current Operational State & Session Handoff — 24 October 2026
+
+### 1. Executive Summary & Changes
+1. **AI Tutor Branding Standardization:** Standardized customer- and learner-facing branding from legacy "Ask Tutor" to **"AI Tutor"** across the portfolio showcase (`index.html`) and documentation (`README.md`).
+2. **STS Courseware Development Offer Terms & Deliverables:** Synchronized the special hosting and free custom courseware development offer on `index.html` and `README.md`:
+   - Clarified voucher structure: 25 student vouchers minimum at **$36 / student per course-day** of content (e.g., $900 min. for a 1-day course).
+   - Detailed all included deliverables: hosted interactive course on STS, embedded AI Tutor, PowerPoint slides (`.pptx`), Trainer Prep Guide (`.pdf`), and Quick Reference Guide (`.pdf`).
+   - Lab environments quoted separately upon inquiry.
+3. **Showcase Focus:** Spotlit AI Fundamentals for Knowledge Workers as the sole flagship showcase courseware, removing legacy LNX001 references.
+
+### 2. Verification & Deployment
+* **Static Verification:** Verified `index.html` and `README.md` syntax, links, and branding consistency.
+* **Git Commit & Push:** All updates committed and pushed cleanly to `origin/main` (`e386f1a`).
+
+---
+
+## Historical Operational State — 14 October 2026
 
 ### 1. Executive Summary & Changes
 Updated the personal profile and showcase website (`https://neiltucker.github.io/neiltucker/`) following the privacy transition of the `ai-fundamentals` courseware repository:
