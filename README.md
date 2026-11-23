@@ -6,22 +6,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neil%20Tucker-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/neilrtucker)
 [![Software Tutorial Services](https://img.shields.io/badge/Training-Software%20Tutorial%20Services-0078D4?style=flat-square)](https://www.softwaretutorialservices.com)
 [![Courseware Studio](https://img.shields.io/badge/AI%20Courseware-Courseware%20Studio-6366F1?style=flat-square)](https://coursewarestudio.ai)
-[![Free AI Course](https://img.shields.io/badge/Free%20Course-AI%20Fundamentals%20AFK--001-6366f1?style=flat-square)](https://neiltucker.github.io/ai-fundamentals/)
+[![Sample AI Course](https://img.shields.io/badge/Sample%20Course-AI%20Fundamentals%20AFK--001-6366f1?style=flat-square)](https://sample.coursewarestudio.ai/)
 
 ---
 
-## 🎁 Featured Courseware Showcase (Built with Courseware Studio AI)
+## Sample Courseware Showcase (Built with Courseware Studio AI)
 
-### 🤖 [AI Fundamentals for Knowledge Workers (AFK-001)](https://neiltucker.github.io/ai-fundamentals/)
-**Free Interactive Web Course • Complete Instructor Kit • Hosted on STS**  
-A complete, multi-module curriculum on foundational generative AI principles, structured prompting frameworks, and spreadsheet automation designed for modern office professionals:
+### [AI Fundamentals for Knowledge Workers (AFK-001)](https://sample.coursewarestudio.ai/)
+**Interactive Sample Web Course • Complete Instructor Kit • Hosted on STS**  
+A complete, multi-module sample curriculum on foundational generative AI principles, structured prompting frameworks, and spreadsheet automation designed for modern office professionals:
 * **Built 100% with [Courseware Studio AI](https://coursewarestudio.ai):** Demonstrates end-to-end automated curriculum generation — from the 9-page syllabus to 5 interactive web modules, hands-on guided labs, and an embedded client-side AI Tutor.
-* **Instant Free Online Course:** Launch and study directly in your browser at **[neiltucker.github.io/ai-fundamentals](https://neiltucker.github.io/ai-fundamentals/)** or **[sample.coursewarestudio.ai](https://sample.coursewarestudio.ai/)**.
-* **Free Downloads:** Download the complete [Official Syllabus PDF](https://neiltucker.github.io/ai-fundamentals/downloads/AFK-001_EN_Syllabus.pdf) directly.
+* **Instant Online Course Access:** Launch and study directly in your browser at **[sample.coursewarestudio.ai](https://sample.coursewarestudio.ai/)**.
+* **Free Downloads:** Download the complete [Official Syllabus PDF](https://sample.coursewarestudio.ai/downloads/AFK-001_EN_Syllabus.pdf) directly.
 * **Free Instructor Kit:** Request the complete classroom delivery kit (PowerPoint slides, 120-page Instructor Guide, and Trainer Prep Guide) at zero cost via **[support@coursewarestudio.ai](mailto:support@coursewarestudio.ai?subject=Request%20Free%20Instructor%20Kit%20-%20AFK-001)**.
-* **🎁 Special Offer — Free Courseware Development with STS Hosting:** Receive free custom courseware development from Courseware Studio when hosting your course on Software Tutorial Services (minimum 25 student vouchers at $36 / student per course-day of content; e.g., $900 min. for a 1-day course). Includes hosted interactive courseware, embedded AI Tutor, PowerPoint slides, Trainer Prep Guide, and Quick Reference Guide; lab environments quoted separately. Contact **[support@coursewarestudio.ai](mailto:support@coursewarestudio.ai?subject=Free%20Courseware%20Development%20%26%20STS%20Hosting%20Inquiry)**.
+* **Special Offer — Free Courseware Development with STS Hosting:** Receive free custom courseware development from Courseware Studio when hosting your course on Software Tutorial Services (minimum 25 student vouchers at $36 / student per course-day of content; e.g., $900 min. for a 1-day course). Includes hosted interactive courseware, embedded AI Tutor, PowerPoint slides, Trainer Prep Guide, and Quick Reference Guide; lab environments quoted separately. Contact **[support@coursewarestudio.ai](mailto:support@coursewarestudio.ai?subject=Free%20Courseware%20Development%20%26%20STS%20Hosting%20Inquiry)**.
 * **Enterprise Free-Use Grant:** Free for web-based internal corporate employee training, universities, and non-profits under Creative Commons (CC BY 4.0).
-* 👉 **[Launch Free AI Fundamentals Course Online ↗](https://neiltucker.github.io/ai-fundamentals/)**
+* 👉 **[Launch Sample AI Fundamentals Course Online ↗](https://sample.coursewarestudio.ai/)**
 
 ---
 
@@ -50,7 +50,7 @@ Free, browser-based utilities built to simplify classroom pacing and e-learning 
 
 | Tool | Description | Quick Link |
 | :--- | :--- | :--- |
-| **[AI Fundamentals (AFK-001)](https://neiltucker.github.io/ai-fundamentals/)** | Complete free 1-day AI course for business professionals with online player, syllabus PDF, and free instructor kit. | [Live App](https://neiltucker.github.io/ai-fundamentals/) |
+| **[AI Fundamentals (AFK-001)](https://sample.coursewarestudio.ai/)** | Sample 1-day AI course for business professionals with online player, syllabus PDF, and free instructor kit. | [Live App](https://sample.coursewarestudio.ai/) |
 | **[Markdown to SCORM](https://github.com/neiltucker/markdown-to-scorm)** | In-browser compiler converting raw Markdown syllabi and notes into compliant multi-slide SCORM 2004 packages. Zero dependencies. | [Live App](https://neiltucker.github.io/markdown-to-scorm/) • [Repo](https://github.com/neiltucker/markdown-to-scorm) |
 | **[SCORM & LMS Test Harness](https://github.com/neiltucker/scorm-lms-test-harness)** | Offline single-page LMS simulation environment to test and debug SCORM 1.2/2004 API calls (`window.API` / `API_1484_11`) locally without an LMS. | [Live App](https://neiltucker.github.io/scorm-lms-test-harness/) • [Repo](https://github.com/neiltucker/scorm-lms-test-harness) |
 | **[Free SCORM Wrapper](https://github.com/neiltucker/free-scorm-wrapper)** | Production boilerplate and helper scripts to wrap static HTML5 web apps, games, or slides into standard LMS packages. | [Repo](https://github.com/neiltucker/free-scorm-wrapper) |
@@ -59,11 +59,11 @@ Free, browser-based utilities built to simplify classroom pacing and e-learning 
 
 ---
 
-## 📚 Flagship Courseware Repositories
+## 📚 Courseware Repositories
 
 Outlines, lab setups, and student resources for popular instructor-led courses:
 
-* **[AI Fundamentals (AFK-001)](https://neiltucker.github.io/ai-fundamentals/)** — Generative AI for Business Professionals & Knowledge Workers
+* **[AI Fundamentals (AFK-001)](https://sample.coursewarestudio.ai/)** — Sample Course: Generative AI for Business Professionals & Knowledge Workers
 * **[65316A](https://github.com/neiltucker/65316A)** — Administering Microsoft SQL Server 2025 Databases
 * **[65317A](https://github.com/neiltucker/65317A)** — Querying and Analyzing SQL Server 2025 with T-SQL and SSMS 22
 * **[65319A](https://github.com/neiltucker/65319A)** — Automating Administration with PowerShell on Windows Server 2025
@@ -77,6 +77,6 @@ Outlines, lab setups, and student resources for popular instructor-led courses:
 ## 🤝 Connect
 
 * **LinkedIn:** [linkedin.com/in/neilrtucker](https://www.linkedin.com/in/neilrtucker)
-* **Free AI Course:** [neiltucker.github.io/ai-fundamentals](https://neiltucker.github.io/ai-fundamentals/)
+* **Sample AI Course:** [sample.coursewarestudio.ai](https://sample.coursewarestudio.ai/)
 * **Training Inquiries:** [softwaretutorialservices.com](https://www.softwaretutorialservices.com)
 * **AI Course Authoring:** [coursewarestudio.ai](https://coursewarestudio.ai)
